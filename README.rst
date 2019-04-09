@@ -4,10 +4,18 @@ When you have Composer, Node.js, npm and yarn installed, you simply clone this p
 
     git clone git@gitlab.com:jbernadas/symfony-react-skeleton.git <name-of-project>
 
-After cloning you can now issue the following commands::
+After cloning cd into the newly created project folder::
+
+    cd <name-of-project>
+
+Now issue the following commands::
 
     composer install
     yarn install
     yarn encore dev
+
+You can now see the fruits of your labor by issuing command::
+
+    php bin/console server:run
 
 That's it.
