@@ -18,4 +18,6 @@ You can now see the fruits of your labor by issuing command::
 
     php bin/console server:run
 
+then go to the URL stated in the command line output.
+
 That's it.
