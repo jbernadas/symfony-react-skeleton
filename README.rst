@@ -22,4 +22,4 @@ You can now see the fruits of your labor by issuing command::
 
 then go to the URL stated in the command line output.
 
-That's it.
+React and CSS folders will be inside the assets folder.
