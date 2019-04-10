@@ -1,3 +1,5 @@
+This is a simple Symfony 4 microservice backend with React frontend skeleton you can use to start a project.
+
 You need to have Composer, Node.js, npm and yarn installed to begin.
 
 When you have Composer, Node.js, npm and yarn installed, you simply clone this project by::
